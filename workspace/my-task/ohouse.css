@@ -1,0 +1,97 @@
+.main {
+    height: 100%;
+}
+
+blockquote, body, code, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, input, legend, li, ol, p, pre, td, textarea, th, ul {
+    margin: 0;
+    padding: 0;
+}
+
+.layout {
+    display: flex;
+}
+
+.css-lm6zlo {
+    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 1256px;
+    margin: 0 auto;
+    padding: 0 60px;
+}
+ .css-55rg8t {
+    display: none;
+}
+
+.css-osmvbo {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: none;
+    font: inherit;
+    padding: 6px;
+    margin: 3px 1px;
+    color: #2F3438;
+    outline: none;
+}
+
+button, input, select, textarea {
+    font-size: inherit;
+}
+
+button, a {
+    cursor: pointer;
+}
+
+.ohouse-logo {
+    border: none;
+    background: none;
+    font: inherit;
+    align-items: center;
+    margin: -4px;
+    padding: 4px;
+    font-size: 0;
+    line-height: 0;
+    color: #212629;
+    outline: none;
+}
+
+.css-17xpzxt
+
+.category-A-wrap{
+    display: inline-block;
+    margin: -4px;
+    padding: 4px;
+    border-radius: 3px;
+}
+
+.category-A-container-blue{
+    border: none;
+    background: none;
+    font: inherit;
+    position: relative;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 21px 5px 15px;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: bold;
+    outline: none;
+    color: #0AA5FF;
+}
+
+.category-A-container-black{
+    border: none;
+    background: none;
+    font: inherit;
+    position: relative;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 21px 5px 15px;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: bold;
+    color: #2F3438;
+    outline: none;
+}

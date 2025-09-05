@@ -1,0 +1,4 @@
+.css-75lrwi = div main
+.css-zo5nnc = ohouse-logo
+.css-18nk785 = category-A-wrap
+.css-17xpzxt = category-A-container-blue
